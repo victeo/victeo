@@ -2,8 +2,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on front-end
-- 🌱 I’m currently learning React/next.js
+- 🔭 I’m currently working on Magento
+- 🌱 I’m currently learning Javascript
 - 📫 How to reach me: vic.teodoros@gmail.com
 
 <div>
