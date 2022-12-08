@@ -3,7 +3,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Magento
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and Magento
 - 📫 How to reach me: vic.teodoros@gmail.com
 
 <div>
