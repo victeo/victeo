@@ -2,8 +2,6 @@
 
 Here are some ideas to get you started:
 
-# About Me
-
 - 🔭 I’m currently working with Angular
 - 🌱 I’m currently learning Vue
 - 💼 I have experience with Magento, PHP, JavaScript, and React
