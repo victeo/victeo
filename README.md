@@ -1,8 +1,8 @@
 <h1 align="center">Olá, eu sou o Victor Teodoro! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Front-end · Angular · TypeScript</strong><br>
-  Construo aplicações web e mobile para educação e instituições sem fins lucrativos.
+  <strong>Desenvolvedor Full-stack · Angular · TypeScript · Supabase</strong><br>
+  Construo sistemas de gestão para educação e para o terceiro setor, do front-end ao banco de dados.
 </p>
 
 <p align="center">
@@ -14,15 +14,29 @@
 
 ## 🧑‍💻 Sobre mim
 
-Comecei na **Biologia e na Astronomia** e levei dessa formação o pensamento lógico e o gosto por resolver problemas. Hoje trabalho principalmente com **JavaScript e TypeScript**, e meu foco é o **front-end com Angular**.
+Comecei na **Biologia e na Astronomia** e levei dessa formação o pensamento lógico e o cuidado com evidências. Hoje trabalho com **TypeScript de ponta a ponta**: interfaces em **Angular**, APIs em **Edge Functions (Deno)** e dados em **PostgreSQL**.
 
-- 🔭 Desenvolvo com **Angular** moderno (Signals, componentes standalone, SSR) e **Tailwind CSS**.
-- 🧩 Também uso **React** com Vite e TypeScript.
-- 🔐 Integro login corporativo com **Microsoft Entra ID (MSAL)** e **Firebase Auth**.
-- 🗄️ Trabalho com **Firebase** (Firestore, Hosting) e **Supabase**, com Edge Functions em TypeScript (Deno).
-- ☁️ Publico em **Azure** (Static Web Apps, Functions) e Firebase Hosting.
-- 📱 Já levei um app Angular para Android e iOS com **Capacitor**, com uso offline.
-- ✅ Escrevo testes com **Vitest** e verifico acessibilidade com **axe-core**.
+Gosto de software que organiza o dia a dia de equipes pequenas e de instituições que têm pouco tempo para sistemas. Isso quer dizer especificar antes de programar, testar, cuidar da acessibilidade e documentar as decisões.
+
+## 🏢 Onde atuo
+
+### OSCEIA · tecnologia para o terceiro setor
+Sistemas internos e públicos de uma organização que trabalha com aprendizagem profissional e estágio:
+
+- **Contratos e convênios**: modelos de documento editáveis, termos de estágio e de colaboração, envio para assinatura eletrônica e acompanhamento das assinaturas.
+- **Recrutamento e vagas**: candidaturas, vagas restritas por link de indicação, recrutadoras e coordenação, integradas ao CRM Twenty.
+- **API em Supabase self-hosted**: Edge Functions em Deno, migrations com RLS, filas (pgmq) e tarefas agendadas (pg_cron).
+- **Login corporativo** com Microsoft Entra ID e **testes de integração** das funções, que rodam sem rede e sem dado real.
+
+### IEEEB · Sistema Eurípedes Barsanulfo (SEB)
+Plataforma educacional para a rede de escolas.
+
+- **SEB Observar**: app do professor para registrar o desenvolvimento de cada criança durante e depois da aula. É um PWA com uso offline, empacotado para Android e iOS com Capacitor.
+- **Backend** com isolamento de dados entre escolas (RLS), auditoria de toda escrita e consentimentos dos responsáveis (LGPD).
+- **Painel de gestão** em Angular, ao lado da plataforma em React.
+
+### CONCAFRAS
+Portais e ferramentas de apoio aos eventos e aos estudos da confederação, feitos com Angular, Firebase e Azure.
 
 ## 🚀 Projetos públicos
 
@@ -31,9 +45,15 @@ Comecei na **Biologia e na Astronomia** e levei dessa formação o pensamento l�
 | [**confirmacao-convites**](https://github.com/victeo/confirmacao-convites) | Sistema de RSVP para eventos. Convidados confirmam presença e a de seus dependentes, e o organizador acompanha tudo em um painel em tempo real. | Angular, Tailwind CSS, Firebase |
 | [**certifica-escola**](https://github.com/victeo/certifica-escola) | Emissão de certificados em PDF para professores, com convite de diretores por link, painel administrativo, relatórios em CSV e verificação pública de autenticidade. | Angular, Firebase, pdf-lib |
 
-> A maior parte do meu trabalho recente está em repositórios privados de organizações e clientes.
+> O trabalho nas organizações acima está em repositórios privados.
 
-## 🛠️ Tecnologias
+## 🛠️ Como trabalho
+
+- **Front-end**: Angular moderno (Signals, componentes standalone, zoneless, SSR), Tailwind CSS 4, PrimeNG e React com Vite.
+- **Back-end e dados**: Supabase, PostgreSQL (RLS, migrations, auditoria), Deno e Firebase.
+- **Nuvem**: Azure (Static Web Apps, Functions, Entra ID) e Firebase Hosting.
+- **Mobile**: PWA offline-first com IndexedDB e Capacitor para Android e iOS.
+- **Qualidade**: especificação antes do código, Vitest, ESLint, verificação de acessibilidade com axe-core e checagens antes do push e do deploy.
 
 <p>
   <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
@@ -42,17 +62,16 @@ Comecei na **Biologia e na Astronomia** e levei dessa formação o pensamento l�
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img alt="Vite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  <img alt="Astro" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg">
-  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Deno" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
-  <img alt="Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
+  <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img alt="Supabase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
   <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img alt="Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
   <img alt="Azure" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
 ## 📫 Vamos conversar?
 
-Aberto a conversas sobre desenvolvimento front-end, projetos de impacto social e oportunidades.
+Aberto a conversas sobre desenvolvimento web, produtos de impacto social e oportunidades.
 Escreva para **[vic.teodoros@gmail.com](mailto:vic.teodoros@gmail.com)**.
