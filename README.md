@@ -1,69 +1,52 @@
-<h1 align="center">Olá, eu sou o Victor Teodoro! 👋</h1>
+<h1 align="center">Hi, I'm Victor Teodoro! 👋</h1>
 
 <p align="center">
-  <strong>Desenvolvedor Full-stack · Angular · TypeScript · Supabase</strong><br>
-  Construo sistemas de gestão para educação e para o terceiro setor, do front-end ao banco de dados.
+  <strong>Tech Lead · Full Stack Developer · Integrations Specialist</strong><br>
+  I turn complex operational processes into secure, scalable and maintainable web systems.
 </p>
 
 <p align="center">
-  <a href="mailto:vic.teodoros@gmail.com"><img alt="E-mail" src="https://img.shields.io/badge/E--mail-vic.teodoros%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/victeo"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-victeo-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/victor-teodoros"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-victor--teodoros-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:vic.teodoros@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vic.teodoros%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mim
+## 🧑‍💻 About me
 
-Comecei na **Biologia e na Astronomia** e levei dessa formação o pensamento lógico e o cuidado com evidências. Hoje trabalho com **TypeScript de ponta a ponta**: interfaces em **Angular**, APIs em **Edge Functions (Deno)** e dados em **PostgreSQL**.
+I have more than 8 years of experience in web development. Today I technically lead end-to-end corporate digital solutions, from architecture design to delivery, for a non-profit organization.
 
-Gosto de software que organiza o dia a dia de equipes pequenas e de instituições que têm pouco tempo para sistemas. Isso quer dizer especificar antes de programar, testar, cuidar da acessibilidade e documentar as decisões.
+My background is in **Biological Sciences** and **Astronomy Education** (UFG), plus a bachelor's degree in **Psychology**. I am also a Science teacher. From that training I bring the scientific method, care for evidence, and attention to how people actually use software.
 
-## 🏢 Onde atuo
+## 🎯 What I aim to deliver
 
-### OSCEIA · tecnologia para o terceiro setor
-Sistemas internos e públicos de uma organização que trabalha com aprendizagem profissional e estágio:
+- **Process automation** and platform integration that create real business value.
+- **Security and compliance** by design: access control, auditing, traceability and data protection (LGPD, Brazil's GDPR-style law).
+- **Maintainable systems**, with tests, technical documentation and recorded decisions.
+- **Good user experience**: responsive, fast and accessible interfaces.
 
-- **Contratos e convênios**: modelos de documento editáveis, termos de estágio e de colaboração, envio para assinatura eletrônica e acompanhamento das assinaturas.
-- **Recrutamento e vagas**: candidaturas, vagas restritas por link de indicação, recrutadoras e coordenação, integradas ao CRM Twenty.
-- **API em Supabase self-hosted**: Edge Functions em Deno, migrations com RLS, filas (pgmq) e tarefas agendadas (pg_cron).
-- **Login corporativo** com Microsoft Entra ID e **testes de integração** das funções, que rodam sem rede e sem dado real.
+## 🧭 How I work
 
-### IEEEB · Sistema Eurípedes Barsanulfo (SEB)
-Plataforma educacional para a rede de escolas.
+- **Full cycle and front-end**: modern interfaces with Angular and TypeScript, as well as React and Next.js.
+- **Architecture and integration**: communication between distributed services through REST APIs, GraphQL and webhooks, with asynchronous queues.
+- **Back-end and data**: Edge Functions on Deno, Node.js, Supabase and PostgreSQL, with RLS, migrations and auditing.
+- **CRM modeling and automation**: entities, workflows and pipelines in Twenty CRM, with automated business rules.
+- **Identity and governance**: Microsoft Entra ID, permission control and LGPD compliance processes.
+- **BI**: administrative panels and indicator dashboards.
+- **Quality**: specification before code, automated tests, process analysis, documentation and continuous product evolution.
 
-- **SEB Observar**: app do professor para registrar o desenvolvimento de cada criança durante e depois da aula. É um PWA com uso offline, empacotado para Android e iOS com Capacitor.
-- **Backend** com isolamento de dados entre escolas (RLS), auditoria de toda escrita e consentimentos dos responsáveis (LGPD).
-- **Painel de gestão** em Angular, ao lado da plataforma em React.
-
-### CONCAFRAS
-Portais e ferramentas de apoio aos eventos e aos estudos da confederação, feitos com Angular, Firebase e Azure.
-
-## 🚀 Projetos públicos
-
-| Projeto | O que faz | Stack |
-| --- | --- | --- |
-| [**confirmacao-convites**](https://github.com/victeo/confirmacao-convites) | Sistema de RSVP para eventos. Convidados confirmam presença e a de seus dependentes, e o organizador acompanha tudo em um painel em tempo real. | Angular, Tailwind CSS, Firebase |
-| [**certifica-escola**](https://github.com/victeo/certifica-escola) | Emissão de certificados em PDF para professores, com convite de diretores por link, painel administrativo, relatórios em CSV e verificação pública de autenticidade. | Angular, Firebase, pdf-lib |
-
-> O trabalho nas organizações acima está em repositórios privados.
-
-## 🛠️ Como trabalho
-
-- **Front-end**: Angular moderno (Signals, componentes standalone, zoneless, SSR), Tailwind CSS 4, PrimeNG e React com Vite.
-- **Back-end e dados**: Supabase, PostgreSQL (RLS, migrations, auditoria), Deno e Firebase.
-- **Nuvem**: Azure (Static Web Apps, Functions, Entra ID) e Firebase Hosting.
-- **Mobile**: PWA offline-first com IndexedDB e Capacitor para Android e iOS.
-- **Qualidade**: especificação antes do código, Vitest, ESLint, verificação de acessibilidade com axe-core e checagens antes do push e do deploy.
+## 🛠️ Technologies
 
 <p>
   <img alt="Angular" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img alt="Next.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img alt="Tailwind CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img alt="Vite" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg">
-  <img alt="Deno" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
   <img alt="Node.js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img alt="Deno" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg">
+  <img alt="GraphQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg">
   <img alt="Supabase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg">
   <img alt="PostgreSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
   <img alt="Firebase" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg">
@@ -71,7 +54,9 @@ Portais e ferramentas de apoio aos eventos e aos estudos da confederação, feit
   <img alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
 </p>
 
-## 📫 Vamos conversar?
+**Also in my background:** PHP, Laravel, Moodle and Adobe Commerce (certified), from earlier e-commerce and education work. My focus today is TypeScript.
 
-Aberto a conversas sobre desenvolvimento web, produtos de impacto social e oportunidades.
-Escreva para **[vic.teodoros@gmail.com](mailto:vic.teodoros@gmail.com)**.
+## 📫 Let's talk
+
+Open to conversations about architecture, integrations, web development and opportunities.
+Write to **[vic.teodoros@gmail.com](mailto:vic.teodoros@gmail.com)** or reach me on [LinkedIn](https://www.linkedin.com/in/victor-teodoros).
